@@ -13,7 +13,8 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 # About me
 Hello! I'm Cheng, currently studying at Carnegie Mellon University's PPM-DA. I'm passionate about data analysis and visualization. In my free time, I enjoy exploring Pittsburgh's diverse food scene and taking walks in nearby parks :D
 I also like travelling and photograph, and this is my video website: https://space.bilibili.com/14696857?spm_id_from=333.1007.0.0
-<img src="cheng.jpg" width="200"/>
+
+<img src="cheng.jpg" width="500"/>
 
 # What I hope to learn
 
