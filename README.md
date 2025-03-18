@@ -11,7 +11,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hello!:grinning: I'm **Cheng**(she/her), currently studying at Carnegie Mellon University's PPM-DA. I'm from China, and passionate about data analysis and visualization. 
+Hello! 😀 I'm **Cheng**(she/her), currently studying at Carnegie Mellon University's PPM-DA. I'm from China, and passionate about data analysis and visualization. 
 
 In my free time, I enjoy exploring Pittsburgh's diverse food scene and taking walks in nearby parks! I also like travelling and photograph, and this is my video website: [Cheng's Notes](https://space.bilibili.com/14696857?spm_id_from=333.1007.0.0)
 
