@@ -27,6 +27,10 @@ In my free time, I enjoy exploring Pittsburgh's diverse food scene and taking wa
 
 # Portfolio
 
+<iframe title="Urban Mobility Readiness Index 2020: Top 10" aria-label="Split Bars" id="datawrapper-chart-faxXs" src="https://datawrapper.dwcdn.net/faxXs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1313" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
+
+
 # Examples
 Here are some of my projects from the course:
 
