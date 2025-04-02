@@ -3,7 +3,7 @@
 # Alcohol on Dates: Redesigning Zoosk’s Visualization
 
 ## Step one: the visualization 
-The original graph I reviewed was created by Zoosk, showcasing people's attitudes towards alcohol on dates. [Zoosk's work](https://www.behance.net/gallery/90626275/Drink-Dating-Infographics)
+The original graph I reviewed was created by Zoosk, showcasing people's attitudes towards alcohol on dates. Here's the link: [Zoosk's work](https://www.behance.net/gallery/90626275/Drink-Dating-Infographics)
 
 ## Step two: the critique
 I was immediately drawn to its unique and fancy design, featuring symbols like hearts and wine bottles, which are visually engaging and align well with the topic. Additionally, the low saturation of colors made the visualization comfortable to look at. 
@@ -19,7 +19,7 @@ These problems motivated me to redesign the graph to improve clarity and storyte
 
 According to my critique, I began by sketching out ideas for my redesign.
 
-/jpg/
+<img src="dataviz.jpg" width="500"/>
 
 After finishing it, I conducted interviews with three teammates to gather feedback.
 
