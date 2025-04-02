@@ -19,7 +19,7 @@ These problems motivated me to redesign the graph to improve clarity and storyte
 
 According to my critique, I began by sketching out ideas for my redesign.
 
-<img src="dataviz.jpg" width="500"/>
+<img src="dataviz.png" width="500"/>
 
 After finishing it, I conducted interviews with three teammates to gather feedback.
 
