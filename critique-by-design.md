@@ -1,59 +1,58 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Alcohol on Dates: Redesigning Zoosk’s Visualization
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
-
-## Step one: the visualization
-
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+## Step one: the visualization 
+The original graph I reviewed was created by Zoosk, showcasing people's attitudes towards alcohol on dates. [Zoosk's work](https://www.behance.net/gallery/90626275/Drink-Dating-Infographics)
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+I was immediately drawn to its unique and fancy design, featuring symbols like hearts and wine bottles, which are visually engaging and align well with the topic. Additionally, the low saturation of colors made the visualization comfortable to look at. 
+
+However, upon closer inspection, I found several issues:
+- Color Usage: The colors used didn’t effectively highlight key information. For example, the two largest percentages (65% and 72%) were assigned different colors without any clear reasoning, and the "most popular" drinks weren’t emphasized using darker or standout colors.
+- Proportions and Percentages: The visual representation of percentages was confusing. For instance, the filled proportions of hearts were hard to interpret, and the bar chart exaggerated certain values (e.g., 62% was visually scaled to 90%).
+
+These problems motivated me to redesign the graph to improve clarity and storytelling.
+
 
 ## Step three: Sketch a solution
 
+According to my critique, I began by sketching out ideas for my redesign.
+
+/jpg/
+
+After finishing it, I conducted interviews with three teammates to gather feedback.
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
+My questions to ask are like: 
 - Can you describe to me what this is telling you?
-
 - Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
 - Is there anything you would change or do differently?
 
 Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+- Interviewee 1 (MEIM): Highlighted confusion about the data source. We realized that the total percentages exceeded 100%, likely because respondents could select multiple options in the survey. This insight led me to add a note below my redesigned graph to clarify this point.
+- Interviewees 2 & 3 (MISM): Suggested replacing split bars with grouped columns for better comparison. They wanted ascending order applied consistently for both genders but acknowledged that differing "most popular" drinks between men and women made this challenging. I ultimately adopted their advice on grouped columns for improved presentation.
+- Professor Feedback: Emphasized prioritizing information clarity over artistic elements and stressed identifying a specific audience for the visualization.
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+<iframe title="                       The most popular drinks by gender (%)" aria-label="Grouped Columns" id="datawrapper-chart-dTxEp" src="https://datawrapper.dwcdn.net/dTxEp/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="461" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}}))}();
+</script>
+
+For my final graph, I chose a grouped column chart:
+- Colors: Blue represents men, pink represents women, while grey highlights the "most popular" drink types for each gender.
+- Title: Updated to ensure clarity regarding the data's scope and focus.
+- Note: Added below the chart to explain that respondents could select multiple options, addressing confusion about percentages exceeding 100%.
+- Simplification: Removed repeated "%" symbols for cleaner visuals.
+
+This redesign aimed to make comparisons between genders more intuitive while emphasizing key insights. Compared to the original visualization, my version focuses more on storytelling and clarity rather than aesthetic appeal.
+
+
+## Future Improvements
+If I can access the original dataset in the future, I hope to redesign additional graphs from Zoosk’s article. Currently, this visualization targets multiple audiences—ordinary people, app developers, or alcohol producers—which makes it less focused. A future iteration could tailor insights specifically for one audience type to deliver a more targeted story.
+
 
 ## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+1. https://dribbble.com/shots/10539609-Drink-and-Dating-Infographics
 
