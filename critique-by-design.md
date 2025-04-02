@@ -54,5 +54,5 @@ If I can access the original dataset in the future, I hope to redesign additiona
 
 
 ## References
-1. https://dribbble.com/shots/10539609-Drink-and-Dating-Infographics
+1. Nataliia Hurzhii, Drink and Dating Infographics, https://dribbble.com/shots/10539609-Drink-and-Dating-Infographics, 2020.
 
