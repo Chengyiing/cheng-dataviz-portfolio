@@ -55,20 +55,20 @@ The final section reemphasizes optimism and collaboration. Transitioning away fr
 
 ## Initial sketches
 
-1. **Overall Trend**
+**Overall Trend**
  - Coal consumption (compare US/other states and WV to highlight the overall decreasing trend) (Line chart/bar chart)
  - Coal production (compare US/other states and WV to highlight the overall decreasing trend)
  - Proportion of coal in total electricity generation (Pie chart to highlight the smaller percentage)
 
 <img src="01.png" width="500"/>
 
-2. **WV's economic status**
+**WV's economic status**
  - GDP increase rate (compare US/other states and WV to highlight the lagged condition of WV)
  - WV electricity generation share (show the trend of coal and other energy contributions)
 
 <img src="02.png" width="500"/>
 
-3. **WV social status**
+**WV social status**
  - Cancer rate (highlight the bad health level of WV compared with US)
  - Income level within WV (Use map to show the overall state's conditions)
  - Share of different industris (show the opportunity of diversity)
