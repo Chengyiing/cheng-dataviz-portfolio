@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/cheng-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://chengyiing.github.io/cheng-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
 # Outline
@@ -52,17 +52,34 @@ The final section reemphasizes optimism and collaboration. Transitioning away fr
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+1. **Overall Trend**
+ - Coal consumption (compare US/other states and WV to highlight the overall decreasing trend)
+ - Coal production (compare US/other states and WV to highlight the overall decreasing trend)
+ - Proportion of coal in total electricity generation (Pie chart to highlight the smaller percentage)
+
+<img src="01.jpg" width="500"/>
+
+2. **WV's economic status**
+ - GDP increase rate (compare US/other states and WV to highlight the lagged condition of WV)
+ - WV electricity generation share (show the trend of coal and other energy contributions)
+
+<img src="02.jpg" width="500"/>
+
+3. **WV social status**
+ - Income level within WV (show the whole state's conditions)
+ - Cancer rate (highlight the bad health level of WV compared with US)
+ - Share of different industris (show the opportunity of diversity)
+
+<img src="03.jpg" width="500"/>
 
 # The data
 
 1. Coal Industry Data (e.g. energy consumption, energy production...):
- - U.S. Energy Information Administration (EIA). [https://www.eia.gov/coal/]
+ - U.S. Energy Information Administration (EIA). [](https://www.eia.gov/coal/)
 
 2. Socioeconomic Data (e.g. unemployment rates, poverty levels...): 
- - U.S. Census Bureau. [https://www.census.gov/library/stories/state-by-state/west-virginia.html]
+ - U.S. Census Bureau. [https://www.census.gov/library/stories/state-by-state/west-virginia.html](https://www.census.gov/library/stories/state-by-state/west-virginia.html)
  - Statista. [https://www.statista.com/statistics/1042282/west-virginia-state-local-government-debt/]
 
 3. The opportunities of economic diversification: 
