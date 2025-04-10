@@ -9,9 +9,13 @@ West Virginia has long been dependent on coal mining as a cornerstone of its eco
 
 ## Project Structure
 
+
+<img src="00.jpg" width="500"/>
+
+
 **1.Introduction**
 
-The project begins with an emotional introduction designed to immerse the audience in West Virginia 's reality. "All the coal came out of our mountains. My grandparents and uncles powered half the world with electricity. But now, we're left with nothing but poverty." A girl said. (Attached is a Youtube video). This emotional opening will set the tone for the rest of the presentation, and introduce the audience to West Virginia's current situation.
+The project begins with an emotional introduction designed to immerse the audience in West Virginia 's reality. "All the coal came out of our mountains. My grandparents and uncles powered half the world with electricity. But now, we're left with nothing but poverty." A girl said. (Attached is a [YouTube video](https://www.youtube.com/watch?v=S_ujv0emOuI)). This emotional opening will set the tone for the rest of the presentation, and introduce the audience to West Virginia's current situation.
 
 **2. Background**
 
@@ -55,15 +59,15 @@ Text here...
 # The data
 
 1. Coal Industry Data (e.g. energy consumption, energy production...):
- - U.S. Energy Information Administration (EIA). https://www.eia.gov/coal/
+ - U.S. Energy Information Administration (EIA). [https://www.eia.gov/coal/]
 
 2. Socioeconomic Data (e.g. unemployment rates, poverty levels...): 
- - U.S. Census Bureau. https://www.census.gov/library/stories/state-by-state/west-virginia.html
- - Statista. https://www.statista.com/statistics/1042282/west-virginia-state-local-government-debt/
+ - U.S. Census Bureau. [https://www.census.gov/library/stories/state-by-state/west-virginia.html]
+ - Statista. [https://www.statista.com/statistics/1042282/west-virginia-state-local-government-debt/]
 
 3. The opportunities of economic diversification: 
- - West Virginia Department of Tourism. https://wvtourism.com/information-and-press/tourism-partners/industry-resources/research-reports/
- - United States Department of Agriculture. https://data.nass.usda.gov/Statistics_by_State/West_Virginia/index.php
+ - West Virginia Department of Tourism. [https://wvtourism.com/information-and-press/tourism-partners/industry-resources/research-reports/]
+ - United States Department of Agriculture. [https://data.nass.usda.gov/Statistics_by_State/West_Virginia/index.php]
 
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
@@ -77,13 +81,19 @@ Text here...
 # Method and medium
 
 For this project, I plan to use a combination of tools introduced in class:
-1. Excel/Python: Do data cleaning/preprocessing/analysis.
-2. Tableau/Datawrapper/Python: To design dynamic data visualizations that highlight key trends.
-3. Shorthand: To create an interactive narrative that integrates text, videos, and data visualizations into a cohesive story.
-4. GitHub: Host my project documentation.
+1. **Excel/Python**: Do data cleaning/preprocessing/analysis.
+2. **Tableau/Datawrapper/Python**: To design dynamic data visualizations that highlight key trends.
+3. **Shorthand**: To create an interactive narrative that integrates text, videos, and data visualizations into a cohesive story.
+4. **GitHub**: Host my project documentation.
 
 
 ## References
-_List any references you used here._
+ - Carley, S., Engle, C., & Konisky, D. M. (2021). An analysis of energy justice programs across the United States. Energy Policy, 152, 112219. https://doi.org/10.1016/j.enpol.2021.112219
+ - Columbia University Center on Global Energy Policy. (2023). Risk of fiscal collapse in coal-reliant communities. Retrieved September 11, 2024, from https://www.energypolicy.columbia.edu/publications/risk-fiscal-collapse-coal-reliant-communities/
+ - Energy Efficient West Virginia. (2013). Energy Plan: 2013-2017. Retrieved September 11, 2024, from https://www.energywv.org/assets/files/EnergyPlan/ENERGY_5year_Plan_ALL-2013-2017.pdf
+ - Harris, D. M., & McCarthy, J. (2023). A just transition to what, for whom, and by what means? Transition technology, carbon markets, and an Appalachian coal mine. Energy Research & Social Science, 106, 103307. https://doi.org/10.1016/j.erss.2023.103307
+ - Morris, A. (2016). Build a better future for coal workers and their communities. Brookings Institution. https://www.brookings.edu/wp-content/uploads/2016/04/build-a-better-future-for-coal-workers-and-their-communities-morris-updated-071216.pdf
+ - USAFacts. (n.d.). West Virginia economy. Retrieved September 11, 2024, from https://usafacts.org/topics/economy/state/west-virginia/
+West Virginia Legislature. (n.d.). Code of West Virginia. Retrieved September 11, 2024, from https://code.wvlegislature.gov/5B-2F-2/
 
 
