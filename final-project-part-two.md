@@ -8,61 +8,59 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+The primary audience for my story includes individuals who may not currently pay attention to issues of fairness in the context of energy transition—such as policymakers, investors, and the general public.
+
+## Approach to Identifying Interviewees
+
+I selected interviewees from diverse backgrounds and countries. Some are studying energy policy, some are originally from West Virginia, and others have expertise in data analysis. Their varied perspectives provided valuable insights into different aspects of my project.
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+Hi, thank you for taking the time to meet with me today. This is a project for my “Telling Stories with Data” course, aiming to use data to inspire action. My project focuses on energy equity in West Virginia.
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+**Warm-up (before showing wireframes)**:
+ - Are you familiar with the economic or energy situation in West Virginia?
+ - Do you have any particular thoughts or opinions about it?
+**Show the storyboard/storyline**
+**Main questions (after showing)**:
+ - Does the overall flow make sense to you?
+ - Is the story engaging? Does it have emotional ups and downs?
+ - Do you think my conclusion should be more focused or more open-ended? (Because the ideas of a previous interviewee and advice from the professor are a little different)
+ - Who do you think my audience is?
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+1. Strengths to Keep:
 
-Text here!
+Interviewees found that starting with a personal story made the narrative easy to understand and engaging. They also thought the topic was fresh and well-focused.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+2. Broadening the Theme:
+
+Several interviewees were drawn in by the fact that, despite the push for renewable energy, there are still negative impacts for some people. They suggested expanding the topic to “humans of non-renewable”—using West Virginia as a case study, but also acknowledging similar stories elsewhere.
+
+The revised storyline would be:
+ - Introduce the background
+ - Highlight the issue: people left behind in the energy transition
+ - Emphasize the core message: these are real people who deserve protection and opportunities. As we shift to a green future, they should not be excluded.
+ - This makes the audience broader: policymakers might consider equity in future energy policies; new investors could see opportunities to hire displaced workers or offer retraining; and the general public may gain a more nuanced understanding of the human side of the energy transition.
+
+3. Expanding the Data:
+
+One interviewee recommended finding more robust data and telling a stronger story with it. Since my focus is now on all workers affected by the energy transition, not just those in West Virginia, I need to seek higher-level and more granular data from multiple regions.
+
+
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Based on this feedback (even though I had already revised my storyline once), I decided to shift the theme to “humans of non-renewable.” While my previous policy memo targeted mainly policymakers, with this Shorthand project I hope to reach a broader audience—so that people from different professions can take away something meaningful and perhaps be inspired to act. I also realized that this new storyline would be more accessible and engaging for my classmates when I present it, making the topic easier to understand and more compelling. Going forward, I will focus on finding more comprehensive and diverse data and refining my visualizations to highlight the human stories behind the numbers.
+This revised version is ready for your GitHub portfolio page and clearly addresses all parts of the assignment.
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
