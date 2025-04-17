@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://chengyiing.github.io/cheng-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 I present my temporary-version storyboard in Shorthand:
@@ -21,10 +21,16 @@ I selected interviewees from diverse backgrounds and countries. Some are studyin
 Hi, thank you for taking the time to meet with me today. This is a project for my “Telling Stories with Data” course, aiming to use data to inspire action. My project focuses on energy equity in West Virginia.
 
 **Warm-up (before showing wireframes)**:
+
  - Are you familiar with the economic or energy situation in West Virginia?
  - Do you have any particular thoughts or opinions about it?
+
+
 **Show the storyboard/storyline**
+
+
 **Main questions (after showing)**:
+
  - Does the overall flow make sense to you?
  - Is the story engaging? Does it have emotional ups and downs?
  - Do you think my conclusion should be more focused or more open-ended? (Because the ideas of a previous interviewee and advice from the professor are a little different)
@@ -32,11 +38,11 @@ Hi, thank you for taking the time to meet with me today. This is a project for m
 
 
 ## Interview findings
-1. Strengths to Keep:
+**Strengths to Keep:**
 
 Interviewees found that starting with a personal story made the narrative easy to understand and engaging. They also thought the topic was fresh and well-focused.
 
-2. Broadening the Theme:
+**Broadening the Theme:**
 
 Several interviewees were drawn in by the fact that, despite the push for renewable energy, there are still negative impacts for some people. They suggested expanding the topic to “humans of non-renewable”—using West Virginia as a case study, but also acknowledging similar stories elsewhere.
 
@@ -46,7 +52,7 @@ The revised storyline would be:
  - Emphasize the core message: these are real people who deserve protection and opportunities. As we shift to a green future, they should not be excluded.
  - This makes the audience broader: policymakers might consider equity in future energy policies; new investors could see opportunities to hire displaced workers or offer retraining; and the general public may gain a more nuanced understanding of the human side of the energy transition.
 
-3. Expanding the Data:
+**Expanding the Data:**
 
 One interviewee recommended finding more robust data and telling a stronger story with it. Since my focus is now on all workers affected by the energy transition, not just those in West Virginia, I need to seek higher-level and more granular data from multiple regions.
 
@@ -61,5 +67,12 @@ This revised version is ready for your GitHub portfolio page and clearly address
 
 
 ## References
-_List any references you used here._
+
+ - Carley, S., Engle, C., & Konisky, D. M. (2021). An analysis of energy justice programs across the United States. Energy Policy, 152, 112219. https://doi.org/10.1016/j.enpol.2021.112219
+ - Columbia University Center on Global Energy Policy. (2023). Risk of fiscal collapse in coal-reliant communities. Retrieved September 11, 2024, from https://www.energypolicy.columbia.edu/publications/risk-fiscal-collapse-coal-reliant-communities/
+ - Energy Efficient West Virginia. (2013). Energy Plan: 2013-2017. Retrieved September 11, 2024, from https://www.energywv.org/assets/files/EnergyPlan/ENERGY_5year_Plan_ALL-2013-2017.pdf
+ - Harris, D. M., & McCarthy, J. (2023). A just transition to what, for whom, and by what means? Transition technology, carbon markets, and an Appalachian coal mine. Energy Research & Social Science, 106, 103307. https://doi.org/10.1016/j.erss.2023.103307
+ - Morris, A. (2016). Build a better future for coal workers and their communities. Brookings Institution. https://www.brookings.edu/wp-content/uploads/2016/04/build-a-better-future-for-coal-workers-and-their-communities-morris-updated-071216.pdf
+ - USAFacts. (n.d.). West Virginia economy. Retrieved September 11, 2024, from https://usafacts.org/topics/economy/state/west-virginia/
+West Virginia Legislature. (n.d.). Code of West Virginia. Retrieved September 11, 2024, from https://code.wvlegislature.gov/5B-2F-2/
 
