@@ -19,7 +19,6 @@ I selected interviewees from diverse backgrounds and countries. Some are studyin
 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
 Hi, thank you for taking the time to meet with me today. This is a project for my “Telling Stories with Data” course, aiming to use data to inspire action. My project focuses on energy equity in West Virginia.
 
