@@ -3,6 +3,9 @@
 # Wireframes / storyboards
 I present my temporary-version storyboard in Shorthand:
 [https://preview.shorthand.com/KQVVaZEUZ0QM3Tpt](https://preview.shorthand.com/KQVVaZEUZ0QM3Tpt)
+ - I improved and finished the outline of my story based on the interview presented below. 
+ - I achieved part of data visulazation based on the data I found and the drafts I drew before.
+ - I still need to enrich my story and embed appropriate citations in accordance with academic requirements. I need to find more solid data and complete all my visualization content.
 
 # User research 
 
