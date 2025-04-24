@@ -1,8 +1,6 @@
 | [home page](https://chengyiing.github.io/cheng-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) | 
 
-# Cheng-portfolio
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Cheng
 
 - Web page URL: [chengyiing.github.io](https://chengyiing.github.io/cheng-dataviz-portfolio/)
 - This repository: [github.com/Chengyiing](https://github.com/Chengyiing/cheng-dataviz-portfolio)
@@ -36,7 +34,18 @@ Here are some of my projects from the course:
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
+
 [Part II](final-project-part-two)
+
 [Part III](final-project-part-three)
+
+
+
+
+
+
+
+
+
 
 
