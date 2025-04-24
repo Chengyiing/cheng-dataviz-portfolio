@@ -33,6 +33,7 @@ Here are some of my projects from the course:
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
+
 [Part I](final-project-part-one)
 
 [Part II](final-project-part-two)
@@ -45,7 +46,7 @@ Here it might be helpful to include a high-level description of your final proje
 
 
 
-
+# Enjoy the journey and make a difference to the world!
 
 
 
