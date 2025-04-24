@@ -29,7 +29,7 @@ In my free time, I enjoy exploring Pittsburgh's diverse food scene and taking wa
 # Examples
 Here are some of my projects from the course:
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](dataviz-examples)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
@@ -37,6 +37,6 @@ Here are some of my projects from the course:
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 
