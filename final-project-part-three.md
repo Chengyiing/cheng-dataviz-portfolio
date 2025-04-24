@@ -1,7 +1,8 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://chengyiing.github.io/cheng-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
 My final Shorthand: [https://carnegiemellon.shorthandstories.com/humans-in-the-shadow-of-renewables/index.html](https://carnegiemellon.shorthandstories.com/humans-in-the-shadow-of-renewables/index.html)
+
 My presentation slides: [https://docs.google.com/presentation/d/1JDXgPHXEM9iEn25T8KmwtJMnMYE6lVV6ArupCR0XDl4/edit?slide=id.p2#slide=id.p2](https://docs.google.com/presentation/d/1JDXgPHXEM9iEn25T8KmwtJMnMYE6lVV6ArupCR0XDl4/edit?slide=id.p2#slide=id.p2)
 
 
@@ -20,12 +21,15 @@ Second, defining my audience was the trickiest and most confusing part. My instr
 
 Finally, I realized my call to action needed to be more tangible. My instructor suggested: 
 > “Can I click a button to learn more? Can I sign up for a newsletter or sign my name on a petition to support Old Energy given that it's been fundamental to the country's building?”
+
 Although I was still torn—because I didn’t want to push my broad audience toward a single prescribed action—I ultimately chose to say, “If you want to learn more, you can choose…” I included links to three NGOs that support displaced workers (such as retraining programs), as well as a YouTube video about environmental justice, hoping that those interested (including my classmates) would be encouraged to explore further.
 
 
 # Key Reflections and What I Learned
 
-I learned a lot from watching other students’ presentations. For example, I really liked how some classmates used slides for their one-minute pitch, rather than relying on flashy Shorthand animations. I realized that clarity and simplicity are crucial for the audience to absorb information. That’s why I also created a slide with only a few of my key data visualizations. I also noticed that information should be concise, with low color saturation, and the language should be accessible and easy to understand. One classmate’s presentation about LLM performance stood out to me because he spoke at a moderate pace and used plain language instead of technical jargon, which made the content much more approachable. So, when preparing my own presentation (I wrote my script in advance), I cut out a lot of detail, simply raised the core question, pointed out that we’re at a crossroads, and ended with a call to action—successfully finishing within one minute. Admittedly, I was very tired and unexpectedly nervous on stage, so I don’t think I performed my best, but I still hope my story resonated with my classmates and maybe even inspired some of them. At the end of class, I reflected on the relationship between story and data. I’ve always felt that I start with a story and then look for data to support my argument. But the instructor emphasized that, once you have the data, the real skill is extracting the story from the data itself. That’s something I want to work on in the future.
+I learned a lot from watching other students’ presentations. For example, I really liked how some classmates used slides for their one-minute pitch, rather than relying on flashy Shorthand animations. I realized that clarity and simplicity are crucial for the audience to absorb information. That’s why I also created a slide with only a few of my key data visualizations. I also noticed that information should be concise, with low color saturation, and the language should be accessible and easy to understand. One classmate’s presentation about LLM performance stood out to me because he spoke at a moderate pace and used plain language instead of technical jargon, which made the content much more approachable. So, when preparing my own presentation (I wrote my script in advance), I cut out a lot of detail, simply raised the core question, pointed out that we’re at a crossroads, and ended with a call to action—successfully finishing within one minute. Admittedly, I was very tired and unexpectedly nervous on stage, so I don’t think I performed my best, but I still hope my story resonated with my classmates and maybe even inspired some of them. 
+
+At the end of class, I reflected on the relationship between story and data. I’ve always felt that I start with a story and then look for data to support my argument. But the instructor emphasized that, once you have the data, the real skill is extracting the story from the data itself. That’s something I want to work on in the future.
 
 
 
